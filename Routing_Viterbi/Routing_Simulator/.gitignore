@@ -1,0 +1,22 @@
+# **/pictures/
+# **/Congestion_Test
+**/Congestion_Test_old
+**/Results/**
+output
+SatNExV4
+SatNEx
+.venv
+**/.DS_Store
+# **.npy
+# **/pre_trained_NNs/**
+SimulationRL_Old.py
+**/Transactions/**.csv
+blocks
+**/rewards**
+**.pyc
+picasso.sh
+__pychache__
+local_tests
+latRegression.py
+Video/MA-DRL_Movement_Short.mov
+playground.ipynb

@@ -1,0 +1,4 @@
+* 객체 자체의 state : entities.py
+* 경로 계산 방법 : routing.py
+* 실험 초기화 / orchestration : simulator.py
+* 결과 시각화 : plotting.py
